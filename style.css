@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,900;1,500&family=Libre+Baskerville:wght@700&family=Open+Sans:wght@600&family=Outfit:wght@500&family=Roboto:wght@300&family=Rubik:wght@300;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,900;1,500&family=Libre+Baskerville:wght@700&family=Open+Sans:wght@600&family=Outfit:wght@500&family=Rubik:wght@600&display=swap');
+@import url('https:/t@600&display=swap'/fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,500&family=Libre+Baskerville:wght@700&family=Open+Sans:wght@600&family=Outfit:wght@500&family=Rubik:wgh);
+
+body {
+   background: https://mossy.co.uk/wp-content/uploads/2019/03/apple_tianium_card.png;
+}
+
+nav ul {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    background-color: rgb(56, 56, 56);
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+nav li a {
+text-decoration: none;
+color: #ffffff;
+display: block;
+}
+
+nav li :hover {
+background-color: #808080;
+}
+
+#headbtm ul {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    background-color: rgb(56, 56, 56);
+    text-align: center;
+}
+
+
+#headbtm li a {
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+}
+
+#headbtm li :hover {
+background-color: #808080;
+}
+
+
+#header {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+   
+}
+
+#imgheader {
+    text-align: center;
+}
+#set {
+    text-align: center;
+    margin: auto;
+}
+
+#button {
+    text-align: center;
+
+  
+}
+
+#iPhone13pro {
+    
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#firstone {
+    text-align: center;
+}
+#ipadpro {
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+#airpods {
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#applewatch {
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#mac {
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#tv {
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#headbtm {
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#aboutsj {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#life {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#aboutapple {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 60px;
+    margin-right: 60px; 
+   
+}
+
+#abap {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#card {
+    text-align: center;
+    
+}
+
+#pod {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif; 
+}
+
+#signature {
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+}
+
+

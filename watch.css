@@ -1,0 +1,98 @@
+body {
+    background-color: white;
+}
+
+#set {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: black;
+    margin-top:40px ;
+
+}
+
+#firstimg {
+    text-align: center;
+}
+
+#COLOS7 {
+    color: red;
+}
+
+#display {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: black;
+}
+
+#screen {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color:green;
+}
+
+#fitnesslg {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-size: xx-large;
+    color: red;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#fit {
+    text-align: center;
+}
+
+#nike {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    margin-top: 200px;
+    font-size: xx-large;
+}
+
+#siri {
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 100px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#battery {
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 100px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#pageprincipal {
+    text-align: center;
+}

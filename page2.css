@@ -1,0 +1,118 @@
+body {
+    background-color: black;
+}
+
+
+#headbtm li {
+    color: white;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#headbtm li a {
+text-decoration: none;
+color: white;
+display: block;
+}
+
+#headbtm li :hover {
+background-color: #808080;
+}
+
+
+#firstimg {
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#cellulardata {
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#xdr {
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#textxdr {
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-size: xx-large 
+}
+
+#textipad {
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#performance {
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#edit {
+    color: white;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-size: xx-large;
+    margin-top: 300px;
+}
+
+#pageipad {
+    text-align: center;
+}
+
+#headbtm {
+    text-align: center;
+}

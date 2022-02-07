@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+}
+
+#set {
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    
+}
+
+#set1 {
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: grey;
+     
+}
+
+#aboutmac {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: medium;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+}
+
+#puce {
+    font-size: xx-large;
+    margin-top: 150px;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+}
+
+#connectivity {
+    margin-top: 150px;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+}
+
+#battery {
+    font-size: xx-large;
+    color: green;
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+#battery2 {
+    text-align: center;
+} 
+
+#headbtm {
+    text-align: center;
+}
+
+#pageprincipal {
+text-align: center;
+}
